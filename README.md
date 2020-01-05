@@ -1,3 +1,4 @@
 # Learning
-Languages: Javascript
-Frameworks/Libraries: Angular | React
+Languages: Javascript  
+Frameworks/Libraries: Angular | React  
+
